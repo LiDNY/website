@@ -1,3 +1,3 @@
-our website
+2023 Website made with NicePage (very bad)
 
-idek not much to see here
+[Main website](https://github.com/LiDNY/website/tree/main)
