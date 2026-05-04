@@ -1,2 +1,1 @@
-LiDNY website lives here
-Check it out at https://lidny.org
+LiDNY website lives here<br>Check it out at https://lidny.org
